@@ -1,6 +1,6 @@
-# Final Projects
+# Bachelor’s / Master’s Capstone Projects
 
-## [Previuosly Developed Projects](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2500013)
+## [Previously Developed Projects](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2500013)
 
 ## Offered Projects
 
