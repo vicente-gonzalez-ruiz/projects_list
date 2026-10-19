@@ -4,10 +4,3 @@
 
 ## [Offered projects](https://www.hpca.ual.es/~vruiz/TFG_ofertados/)
 
-### Final B.Sc. degree
-
-Please, contact <vruiz@ual.es>.
-
-### Final M.Sc. degree
-
-Please, contact <vruiz@ual.es>.
