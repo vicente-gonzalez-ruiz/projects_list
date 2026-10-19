@@ -1,8 +1,8 @@
-# Bachelor’s / Master’s Capstone Projects
+# Bachelor/Master project supervision
 
-## [Previously Developed Projects](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2500013)
+## [Previously developed projects](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2500013)
 
-## Offered Projects
+## [Offered projects](https://www.hpca.ual.es/~vruiz/TFG_ofertados/)
 
 ### Final B.Sc. degree
 
